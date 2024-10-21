@@ -1,0 +1,98 @@
+
+.main {
+    background-position: 100%;
+    background-image: url(../projects/main.png);
+    height: 850px;
+    width: 100%;
+    padding-left: 7%;
+    padding-top: 10%;
+    padding-right: 69%;
+  }
+
+  .pickup {
+    padding: 5%;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    color: rgb(214, 141, 6);
+    text-decoration: underline;
+  }
+
+  .dropoff {
+    font-weight: bold;
+    font-size: 1rem;
+    color: rgb(214, 141, 6);
+    text-decoration: underline;
+  }
+
+  footer {
+
+    color: white;
+    background-color: rgb(54, 53, 53);
+  }
+
+  .matter {
+    background-color: rgb(69, 68, 68);
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .footer {
+    padding-top: 3%;
+    text-decoration: none;
+    justify-content: space-between;
+    text-align: center;
+  }
+
+  .footer-2 {
+    text-decoration: none;
+    justify-content: space-between;
+    text-align: center;
+  }
+
+  .footer a {
+    justify-content: space-between;
+  }
+
+  .footer h2 {
+    color: rgb(244, 185, 75);
+    text-decoration: underline;
+  }
+
+  .footer-2 h2 {
+    color: rgb(244, 185, 75);
+    text-decoration: underline;
+  }
+
+  .heading {
+    padding-left: 10%;
+    padding-top: 10%;
+  }
+
+  .dropoff {
+    padding-left: 5%;
+  }
+
+  .pickup {
+    padding-left: 10%;
+  }
+
+  .pickup-datetime {
+    padding-left: 10%;
+  }
+
+  .dropoff-datetime {
+    padding: 5%;
+    padding-left: 10%;
+  }
+
+  .search {
+    text-decoration: none;
+    font-size: 1.2rem;
+    border: 1px;
+    border-radius: 5px;
+    background-color: rgb(243, 176, 50);
+    text-align: center;
+    margin-left: 22%;
+    margin-right: 30%;
+
+  }
